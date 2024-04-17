@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/vocab-app/static/css/main.79d0c1fd.css",
+    "main.js": "/vocab-app/static/js/main.6dac97d1.js",
+    "static/media/hero-bg.png": "/vocab-app/static/media/hero-bg.db62dc2ee8d9bbfb21ad.png",
+    "index.html": "/vocab-app/index.html",
+    "main.79d0c1fd.css.map": "/vocab-app/static/css/main.79d0c1fd.css.map",
+    "main.6dac97d1.js.map": "/vocab-app/static/js/main.6dac97d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79d0c1fd.css",
+    "static/js/main.6dac97d1.js"
+  ]
+}
